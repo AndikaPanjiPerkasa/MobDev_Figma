@@ -10,4 +10,4 @@ Kelas : 6A
 
 Link : https://www.figma.com/proto/jihgxEl7jgSFMsDPaIenne/AndikaPanjiPerkasa-17090142?scaling=min-zoom&node-id=1%3A3
 
-![alt text](https://drive.google.com/file/d/1eUtghTRlAcAnJytc1mCee8TRxud_aLc1/view?usp=sharing)
+![FigmaUI](https://user-images.githubusercontent.com/48281689/86787169-0251e800-c08f-11ea-9192-ef906074ef2d.png)
